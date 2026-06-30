@@ -1,0 +1,6 @@
+Streamlit
+pandas
+PyPDF2
+langchain
+pydantic
+groq

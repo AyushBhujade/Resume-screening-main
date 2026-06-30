@@ -1,0 +1,154 @@
+Job Title: AI/ML Engineer
+
+Location: Pune, Maharashtra (Hybrid)
+
+Experience Required: 0-2 Years
+
+Employment Type: Full-Time
+
+------------------------------------------------------------
+
+About the Role
+
+We are looking for a passionate AI/ML Engineer to join our growing engineering team. The ideal candidate should have strong programming skills, a solid understanding of machine learning concepts, and hands-on experience building AI-powered applications.
+
+You will work closely with data scientists, software engineers, and product managers to develop, deploy, and maintain machine learning models that solve real-world business problems.
+
+------------------------------------------------------------
+
+Key Responsibilities
+
+• Design, build, and optimize machine learning models.
+• Collect, preprocess, and analyze structured and unstructured data.
+• Develop REST APIs to serve machine learning models.
+• Deploy AI models using Docker and cloud platforms.
+• Collaborate with cross-functional teams to integrate AI solutions.
+• Evaluate model performance and improve accuracy.
+• Write clean, maintainable, and well-documented code.
+• Participate in code reviews and technical discussions.
+• Stay updated with the latest AI and Machine Learning trends.
+
+------------------------------------------------------------
+
+Required Technical Skills
+
+Programming Languages
+- Python
+- SQL
+
+Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Model Evaluation
+- Feature Engineering
+
+Deep Learning
+- TensorFlow or PyTorch
+- Neural Networks
+- CNN
+- Transfer Learning
+
+Data Analysis
+- NumPy
+- Pandas
+- Matplotlib
+
+Backend Development
+- FastAPI or Flask
+- REST APIs
+
+Database
+- MySQL
+- PostgreSQL
+
+Cloud & Deployment
+- AWS
+- Docker
+
+Version Control
+- Git
+- GitHub
+
+------------------------------------------------------------
+
+Preferred Skills
+
+- NLP
+- Computer Vision
+- Streamlit
+- LangChain
+- Vector Databases
+- Prompt Engineering
+- Generative AI
+- LLM Applications
+- RAG (Retrieval-Augmented Generation)
+
+------------------------------------------------------------
+
+Educational Qualification
+
+Bachelor's degree in:
+- Computer Science
+- Information Technology
+- Artificial Intelligence
+- Data Science
+or a related field.
+
+------------------------------------------------------------
+
+Preferred Projects
+
+Candidates with experience in one or more of the following projects will be given preference:
+
+- Resume Screening System
+- Chat with PDF
+- Recommendation System
+- Image Classification
+- Sentiment Analysis
+- Object Detection
+- Medical Image Analysis
+- AI Chatbot
+- Face Recognition
+- Time Series Forecasting
+
+------------------------------------------------------------
+
+Soft Skills
+
+- Problem-solving
+- Communication
+- Teamwork
+- Time Management
+- Analytical Thinking
+- Willingness to Learn
+
+------------------------------------------------------------
+
+Nice to Have
+
+- Internship experience
+- Kaggle participation
+- GitHub portfolio
+- Open-source contributions
+- Technical blogging
+
+------------------------------------------------------------
+
+What We Offer
+
+- Competitive salary
+- Health insurance
+- Flexible working hours
+- Learning and development budget
+- Mentorship from senior AI engineers
+- Opportunity to work on production AI systems
+
+------------------------------------------------------------
+
+Selection Process
+
+1. Resume Screening
+2. Online Coding Assessment
+3. Technical Interview
+4. HR Interview
+5. Final Offer
