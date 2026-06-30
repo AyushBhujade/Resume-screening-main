@@ -1,6 +1,4 @@
-Streamlit
-pandas
 PyPDF2
-langchain
-pydantic
 groq
+streamlit
+python-dotenv
